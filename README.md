@@ -22,7 +22,7 @@ The scoring helps researchers choose balanced word sets for memory and language 
 
 ## 👋 About Me
 
-Hi! I'm Amaan — a second-year student passionate about neuroscience, open-source, and Python development.  
+Hi! I'm Safa, and enthusiastic undergrad. I am passionate about neuroscience, open-source, and Python development.  
 This project is part of my learning journey and GSoC application under MNE-Python.
 
 **GitHub**: [@Shaptain](https://github.com/Shaptain)
